@@ -1,0 +1,13 @@
+ENTIDADES:
+    ✔ ONG @done (24/03/2020 11:32:10)
+    ✔ Casos(incident) @done (24/03/2020 11:32:15)
+
+FUNCIONALIDADES:
+    ✔ Login de ONG @done (24/03/2020 15:01:19)
+    ☐ Logout de ONG
+    ✔ Cadastro de ONG @done (24/03/2020 14:08:20)
+    ✔ Cadastrar novos Casos @done (24/03/2020 14:08:16)
+    ✔ Deletar Casos @done (24/03/2020 14:20:31)
+    ✔ Listar Casos de ONG específica @done (24/03/2020 14:39:39)
+    ✔ Listar todos os Casos @done (24/03/2020 14:08:10)
+    ☐ Entrar em contato com a ONG
