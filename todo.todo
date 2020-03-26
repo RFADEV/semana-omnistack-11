@@ -1,0 +1,29 @@
+ENTIDADES:
+    ✔ ONG @done (24/03/2020 11:32:10)
+    ✔ Casos(incident) @done (24/03/2020 11:32:15)
+
+FUNCIONALIDADES:
+    ✔ Login de ONG @done (24/03/2020 15:01:19)
+    ✔ Logout de ONG @done (25/03/2020 22:14:31)
+    ✔ Cadastro de ONG @done (24/03/2020 14:08:20)
+    ✔ Cadastrar novos Casos @done (24/03/2020 14:08:16)
+    ✔ Deletar Casos @done (24/03/2020 14:20:31)
+    ✔ Listar Casos de ONG específica @done (24/03/2020 14:39:39)
+    ✔ Listar todos os Casos @done (24/03/2020 14:08:10)
+    ☐ Entrar em contato com a ONG
+
+FRONT-END:
+    ✔ Limpando a estrutura @done (25/03/2020 09:11:10)
+    ✔ Conceitos do React @done (25/03/2020 09:28:50)
+        ✔ Componentes @done (25/03/2020 09:11:12)
+        ✔ JSX @done (25/03/2020 09:11:13)
+        ✔ Propriedades @done (25/03/2020 09:19:18)
+        ✔ Estado @done (25/03/2020 09:28:26)
+        ✔ Imutabilidade @done (25/03/2020 09:28:28)
+    ✔ Página de Login @done (25/03/2020 12:29:01)
+    ✔ Configurando Rotas @done (25/03/2020 22:14:18)
+    ✔ Cadastro de ONGs @done (25/03/2020 14:35:45)
+    ✔ Listagem de casos @done (25/03/2020 22:14:20)
+    ✔ Cadastro de um novo caso @done (25/03/2020 22:14:22)
+    ✔ Conectando a aplicação à API @done (25/03/2020 22:14:23)
+    ☐ Enviar projeto ao Github
