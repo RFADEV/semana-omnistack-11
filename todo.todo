@@ -10,7 +10,6 @@ FUNCIONALIDADES:
     ✔ Deletar Casos @done (24/03/2020 14:20:31)
     ✔ Listar Casos de ONG específica @done (24/03/2020 14:39:39)
     ✔ Listar todos os Casos @done (24/03/2020 14:08:10)
-    ☐ Entrar em contato com a ONG
 
 FRONT-END:
     ✔ Limpando a estrutura @done (25/03/2020 09:11:10)
@@ -26,4 +25,30 @@ FRONT-END:
     ✔ Listagem de casos @done (25/03/2020 22:14:20)
     ✔ Cadastro de um novo caso @done (25/03/2020 22:14:22)
     ✔ Conectando a aplicação à API @done (25/03/2020 22:14:23)
-    ☐ Enviar projeto ao Github
+    ✔ Enviar projeto ao Github @done (25/03/2020 23:17:42)
+
+MOBILE:
+    ✔ Instalando Expo @done (26/03/2020 19:38:26)
+    ✔ Criando projeto React Native @done (26/03/2020 19:38:28)
+    ✔ Executando projeto @done (26/03/2020 19:46:33)
+        ✔ Celular @done (26/03/2020 19:44:37)
+        ✔ Emuladores @done (26/03/2020 19:44:38)
+        ✔ Expo Snack @done (26/03/2020 19:46:32)
+    ✔ Diferença para o ReactJS @done (26/03/2020 22:50:19)
+        ✔ Elementos HTML @done (26/03/2020 22:46:42)
+        ✔ Semântica @done (26/03/2020 22:46:43)
+        ✔ Estilização @done (26/03/2020 22:50:15)
+            ✔ Flexbox @done (26/03/2020 22:48:00)
+            ✔ Propriedades @done (26/03/2020 22:49:14)
+            ✔ Herança de estilos @done (26/03/2020 22:50:07)
+            ✔ Estilização Própria @done (26/03/2020 22:50:13)
+    ✔ Estrutura de pastas @done (26/03/2020 22:50:25)
+    ✔ Ícone e Splash Screen @done (26/03/2020 22:59:28)
+    ✔ Configurando navegação @done (26/03/2020 23:44:07)
+    ✔ Pagina de Casos @done (27/03/2020 11:57:37)
+    ✔ Detalhes do caso @done (27/03/2020 21:15:40)
+    ✔ Abrindo Whatsapp e E-mail @done (27/03/2020 21:15:42)
+    ✔ Conexão com a API @done (28/03/2020 12:21:54)
+    ✔ Enviar projeto ao GitHub @done (28/03/2020 12:21:56)
+
+
