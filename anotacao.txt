@@ -1,0 +1,22 @@
+hospedagem node:
+
+testes:
+    heroku
+
+aplicação pequena e media:
+    digital ocean
+
+front end:
+
+testes e pequena:
+    netlify (integra muito bem com o react e com o vue)
+
+
+gerar apk:
+    procurar no canal da rockseat
+
+
+Oque vou estudar:
+    Padrões de codigo
+    Autenticação AWT
+    Styled Components

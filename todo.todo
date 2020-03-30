@@ -52,3 +52,23 @@ MOBILE:
     ✔ Enviar projeto ao GitHub @done (28/03/2020 12:21:56)
 
 
+FUNCIONALIDADES AVANÇADAS:
+    ✔ Adicionando validação @done (29/03/2020 18:29:56)
+    ✔ Adicionando teste @done (29/03/2020 19:58:04)
+        ✔ Porquê fazer testes @done (29/03/2020 18:32:26)
+        ✔ TDD (Test-Drived-Development) @done (29/03/2020 18:35:33)
+        ✔ Configurando JEST @done (29/03/2020 19:00:40)
+        ✔ Tipos de testes @done (29/03/2020 19:00:42)
+        ✔ Configurando banco de testes @done (29/03/2020 19:08:33)
+        ✔ Instalando supertest @done (29/03/2020 19:58:00)
+        ✔ Testando rota de autenticação @done (29/03/2020 19:58:02)
+    ✔ Deploy @done (29/03/2020 21:27:39)
+        ✔ Alternativas @done (29/03/2020 21:27:34)
+        ✔ Qual escolher @done (29/03/2020 21:27:34)
+    ✔ Estudos daqui pra frente @done (29/03/2020 21:27:38)
+        ✔ Padrões de codigo ESLint,Prettier @done (29/03/2020 21:27:35)
+        ✔ Autenticação JWT @done (29/03/2020 21:27:36)
+        ✔ Styled Componentes @done (29/03/2020 21:27:37)
+    ☐ Dicas de como aproveitar melhor
+        ☐ Github
+        ☐ Linkedin
